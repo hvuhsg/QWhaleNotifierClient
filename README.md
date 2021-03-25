@@ -22,4 +22,4 @@ print(res) # -> {"message": "ok"} or {"message": "Invalid Token."}
 ```
 
 
-### App download [link](./app/app-release.apk)
+### App download [link](https://raw.githubusercontent.com/hvuhsg/NotifierClient/main/app/app-release.apk)
