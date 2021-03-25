@@ -20,3 +20,6 @@ res = client.send_notification(
 )
 print(res) # -> {"message": "ok"} or {"message": "Invalid Token."}
 ```
+
+
+### App download [link](./app/app-release.apk)
